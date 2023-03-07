@@ -1,0 +1,4 @@
+file ini digunakan untuk merge
+ketikam perintah merge di lokal urutannya adalah
+- git merge nama_branch
+- git push
