@@ -1,0 +1,4 @@
+ini adalah proses remote
+yang mana kita menhendalikam repository yang ada didalam guthub
+dengan gitbsh yang ada di lokal kita
+dengan itu, kita dapat upload file atau kodingan dengan menggunakn lokal atau gitbash di lokal kita 
